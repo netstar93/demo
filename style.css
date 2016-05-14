@@ -1,0 +1,119 @@
+body {
+color : #545454;
+background-color:#00FA9A;
+font-size : 15px;
+font-family :MV Boli;
+max-width : 80%;
+margin : auto;
+padding:5px;
+text-align:center;
+border-radius: 5px;
+box-shadow : 10px 10px 5px DimGrey;
+border : 5px solid lightgray;
+}
+a:link, a:active, a:visited {
+color : #1f8ba0;
+text-decoration : none;
+}
+a:hover, a:focus {
+text-decoration : none;
+}
+hr{
+margin : 1px;
+color : green;
+border-width:5px;
+border-style:dotted;
+border-width : 1px;
+}
+div {
+background-color : #fff;
+margin : 5px;
+padding : 2px;
+border-radius: 5px;
+}
+.header {
+color : WHITE; 
+background-color : #0080FF; 
+text-shadow : 3px 4px 3px Black;
+margin: 2px; 
+padding : 2px; 
+font-weight:bold;
+font-size: 20px;
+border : 2px solid lightgreen;
+border-radius: 5px;
+}
+.links {
+margin : 2px;
+padding : 0px; 
+border : 1px solid #e1e1e1; 
+}
+.title { 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #e4f4fd;
+border : 1px solid #91d8ec;
+font-weight:bold;
+border-radius: 5px;
+}
+
+.title2 {
+color : #ed8400; 
+font-size: 17px;
+text-shadow : #9d9d9d 1px 1px 1px;  
+background-color : #fff0dd;
+border : 1px solid #ffc175;
+border-radius: 5px;
+}
+.title3 {
+color : #ed3400; 
+font-size: 17px;
+text-shadow : #9d9d9d 1px 1px 1px;  
+background-color : #fff0dd;
+border : 1px solid #ffc175;
+border-radius: 5px;
+}
+
+.content {
+background-color : #f6f6f6;
+border : 2px solid lightGrey;
+}
+.content2 {
+background-color : #fdfdfd;
+border : 1px solid #e7e7e7; 
+}
+.content2 a:link, .content2 a:visited {
+color : #62931d;
+}
+.footer {
+color : #000; 
+text-shadow : green 2px 2px 1px; 
+background-color : #0080FF;
+margin : 2px;
+padding : 2px;
+border : 2px Solid DeepSkyBlue;
+}
+.footer a{
+color:white;
+}
+
+input{
+font-family : MV boli;
+border-radius:5px;
+border: 2px solid lightGrey;
+margin:5px;
+}
+input[type=submit]{
+border : 2px solid Grey;
+background-color : D6D6D6;
+color : DimGrey;
+font-size : 17px;
+}
+input[type=submit]:hover{
+background-color : Silver;
+color : Black;
+}
+input[type=text],[type=password]{
+width : 35%;
+}
+img{
+padding : 1px;
+}
